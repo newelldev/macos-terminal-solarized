@@ -3,12 +3,12 @@ Solarized: macOS Terminal Profiles
 Dark and Light Solarized profiles for macOS Terminal app.
 
 # Dark Theme
-<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Terminal%20Dark%20Screenshot.png" alt="solarized dark screenshot" height="200">
-<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Solarized%20Dark%20Profile.png" alt="solarized dark profile" height="200">
+<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Terminal%20Dark%20Screenshot.png" alt="solarized dark screenshot" height="400">
+<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Solarized%20Dark%20Profile.png" alt="solarized dark profile" height="500">
 
 # Light Theme
-<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Terminal%20Light%20Screenshot.png" alt="solarized light screenshot" height="200">
-<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Solarized%20Light%20Profile.png" alt="solarized light screenshot" height="200">
+<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Terminal%20Light%20Screenshot.png" alt="solarized light screenshot" height="400">
+<img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Solarized%20Light%20Profile.png" alt="solarized light screenshot" height="500">
 
 # Installation
 Download a .terminal profile and double-click to install. A Terminal window should open with the new profile.
