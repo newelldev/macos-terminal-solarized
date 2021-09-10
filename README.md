@@ -1,4 +1,6 @@
-Solarized: macOS Terminal Profiles
+Solarized
+=========
+macOS Terminal Profiles
 --------
 Solarized profiles for macOS Terminal app.
 
