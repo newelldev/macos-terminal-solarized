@@ -20,12 +20,12 @@ ANSI Colors match directly to the [Solarized values](https://github.com/altercat
 
 Background and text colors follow the [usage & development guidelines](https://github.com/altercation/solarized/tree/master/apple-colorpalette-solarized):
 <pre>
-    Color      Dark   Light
-    Background Base03 Base3
-    Text       Base0  Base00
-    Bold Text  Base01 Base1
-    Selection  Base02 Base2
-    Cursor     Base1  Base01
+    Color       Dark    Light
+    Background  Base03  Base3
+    Text        Base0   Base00
+    Bold Text   Base01  Base1
+    Selection   Base02  Base2
+    Cursor      Base1   Base01
 </pre>
 
 <img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Solarized%20Dark%20Profile.png" alt="solarized dark profile" height="400">
