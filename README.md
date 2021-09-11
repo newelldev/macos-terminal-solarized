@@ -1,6 +1,6 @@
 Solarized: macOS Terminal Profiles
 =========
-Dark and Light Solarized profiles for macOS Terminal app.
+Dark and Light [Solarized](http://ethanschoonover.com/solarized) profiles for macOS Terminal app.
 
 # Dark Theme
 <img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Terminal%20Dark%20Screenshot.png" alt="solarized dark screenshot" height="400">
