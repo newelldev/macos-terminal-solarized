@@ -31,4 +31,4 @@ Terminal’s ANSI Colors match directly to the [Solarized values](https://github
 <img src="https://github.com/newelldev/macos-terminal-solarized/blob/main/img/Solarized%20Light%20Profile.png" alt="solarized light screenshot" height="400">
 
 # Compatibility
-Tested on macOS 12.0 Beta (Monterey). Backwards compatibility unknown.
+Tested on macOS 12 Monterey. Backwards compatibility unknown.
